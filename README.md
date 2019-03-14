@@ -9,6 +9,9 @@ https://cvdazzle.com/ | "Dazzle explores how fashion can be used as camouflage f
 ## Algotransparency.org
 https://algotransparency.org | "We aim to inform citizens on the mechanisms behind the algorithms that determine and shape our access to information. YouTube is the first platform on which we’ve conducted the experiment. We are currently developing tools for other platforms."
 
+## LabSix
+https://www.labsix.org/about/ | "LabSix is an independent, entirely student-run AI research group composed of MIT undergraduate and graduate students... Much of our current research is in the area of adversarial examples, at the intersection of machine learning and security."
+
 ## BoingBoing: Adversarial Preturbations
 https://boingboing.net/2019/03/08/hot-dog-or-not.html | "Towards a general theory of "adversarial examples," the bizarre, hallucinatory motes in machine learning's all-seeing eye"
 
