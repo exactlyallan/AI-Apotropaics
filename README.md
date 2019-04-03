@@ -12,6 +12,9 @@ https://algotransparency.org | "We aim to inform citizens on the mechanisms behi
 ## LabSix
 https://www.labsix.org/about/ | "LabSix is an independent, entirely student-run AI research group composed of MIT undergraduate and graduate students... Much of our current research is in the area of adversarial examples, at the intersection of machine learning and security."
 
+- https://www.labsix.org/physical-objects-that-fool-neural-nets/
+- https://www.labsix.org/limited-information-adversarial-examples/
+
 ## BoingBoing: Adversarial Preturbations
 https://boingboing.net/2019/03/08/hot-dog-or-not.html | "Towards a general theory of "adversarial examples," the bizarre, hallucinatory motes in machine learning's all-seeing eye"
 
