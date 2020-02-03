@@ -2,6 +2,8 @@
 A curated list of interesting counter AI techniques, examples, and stories. [Apotropaic: adjective | apo·​tro·​pa·​ic : "designed to avert evil"](https://en.wikipedia.org/wiki/Apotropaic_magic)
 
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+## Google Maps Hacks
+http://simonweckert.com/googlemapshacks.html | "99 second hand smartphones are transported in a handcart to generate virtual traffic jam in Google Maps."
 
 ## CV Dazzle
 https://cvdazzle.com/ | "Dazzle explores how fashion can be used as camouflage from face-detection technology, the first step in automated face recognition."
