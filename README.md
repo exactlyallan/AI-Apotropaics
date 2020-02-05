@@ -2,6 +2,9 @@
 A curated list of interesting counter AI techniques, examples, and stories. [Apotropaic: adjective | apo·​tro·​pa·​ic : "designed to avert evil"](https://en.wikipedia.org/wiki/Apotropaic_magic)
 
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+## Using ‘radioactive data’ to detect if a data set was used for training
+ https://ai.facebook.com/blog/using-radioactive-data-to-detect-if-a-data-set-was-used-for-training/ | "We have developed a new technique to mark the images in a data set so that researchers can determine whether a particular machine learning model has been trained using those images."
+
 ## Google Maps Hacks
 http://simonweckert.com/googlemapshacks.html | "99 second hand smartphones are transported in a handcart to generate virtual traffic jam in Google Maps."
 
