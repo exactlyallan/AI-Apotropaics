@@ -2,7 +2,14 @@
 A curated list of interesting counter AI techniques, examples, and stories. [Apotropaic: adjective | apo·​tro·​pa·​ic : "designed to avert evil"](https://en.wikipedia.org/wiki/Apotropaic_magic)
 
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
-## Using ‘radioactive data’ to detect if a data set was used for training
+
+## Adversarial-Faces
+https://github.com/BruceMacD/Adversarial-Faces | "Testing the effectiveness of practical implementations of adversarial examples against facial recognition."
+
+## Ars Technica: Some shirts hide you from cameras—but will anyone wear them?
+https://arstechnica.com/features/2020/04/some-shirts-hide-you-from-cameras-but-will-anyone-wear-them/ | "It's theoretically possible to become invisible to cameras. But can it catch on?"
+
+## AI.Facebook: Using ‘radioactive data’ to detect if a data set was used for training
  https://ai.facebook.com/blog/using-radioactive-data-to-detect-if-a-data-set-was-used-for-training/ | "We have developed a new technique to mark the images in a data set so that researchers can determine whether a particular machine learning model has been trained using those images."
 
 ## Google Maps Hacks
@@ -23,7 +30,7 @@ https://www.labsix.org/about/ | "LabSix is an independent, entirely student-run 
 ## BoingBoing: Adversarial Preturbations
 https://boingboing.net/2019/03/08/hot-dog-or-not.html | "Towards a general theory of "adversarial examples," the bizarre, hallucinatory motes in machine learning's all-seeing eye"
 
-## Autonomous trap 001
+## Tech Crunch: Autonomous trap 001
 https://techcrunch.com/2017/03/17/laying-a-trap-for-self-driving-cars/ | Artist James Bridle produces a salt based trap for a self driving car.
 
 ## How to Recognize AI Generated Faces (2018)
