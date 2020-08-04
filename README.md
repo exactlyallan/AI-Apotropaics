@@ -35,3 +35,6 @@ https://techcrunch.com/2017/03/17/laying-a-trap-for-self-driving-cars/ | Artist 
 
 ## How to Recognize AI Generated Faces (2018)
 https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842 | Kyle McDonald on things to look for in generated images.
+
+## Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models
+http://sandlab.cs.uchicago.edu/fawkes/ | The SAND Lab at University of Chicago developed Fawkes to take personal images and makes tiny, pixel-level changes that are invisible to the human eye, in a process we call image cloaking, but make them unsuitable for image recognition. 
