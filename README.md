@@ -1,7 +1,8 @@
 # AI Apotropaics
-A curated list of interesting counter AI techniques, examples, and stories. [Apotropaic: adjective | apo·​tro·​pa·​ic : "designed to avert evil"](https://en.wikipedia.org/wiki/Apotropaic_magic)
+### A curated list of interesting counter AI techniques, examples, and stories. [Apotropaic: adjective | apo·​tro·​pa·​ic : "designed to avert evil"](https://en.wikipedia.org/wiki/Apotropaic_magic)
 
-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+=====================================================
+
 
 ## Adversarial-Faces
 https://github.com/BruceMacD/Adversarial-Faces | "Testing the effectiveness of practical implementations of adversarial examples against facial recognition."
