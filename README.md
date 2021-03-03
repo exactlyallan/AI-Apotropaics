@@ -39,3 +39,9 @@ https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842
 
 ## Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models
 http://sandlab.cs.uchicago.edu/fawkes/ | The SAND Lab at University of Chicago developed Fawkes to take personal images and makes tiny, pixel-level changes that are invisible to the human eye, in a process we call image cloaking, but make them unsuitable for image recognition. 
+
+## Adversarial.io
+https://adversarial.io/ | Adversarial.io is an easy-to-use webapp for altering image material, in order to make it machine-unreadable. 
+
+## Fake Contacts
+https://github.com/BillDietrich/fake_contacts | Android phone app that creates fake contacts, which will be stored on your smartphone along with your real contacts. This feeds fake data to any apps or companies who are copying our private data to use or sell it. This is called "data-poisoning".
