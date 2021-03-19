@@ -45,3 +45,6 @@ https://adversarial.io/ | Adversarial.io is an easy-to-use webapp for altering i
 
 ## Fake Contacts
 https://github.com/BillDietrich/fake_contacts | Android phone app that creates fake contacts, which will be stored on your smartphone along with your real contacts. This feeds fake data to any apps or companies who are copying our private data to use or sell it. This is called "data-poisoning".
+
+## Vox: Tesla Tricked Into Speeding by Two Pieces of Tape
+https://www.technologyreview.com/2020/02/19/868188/hackers-can-trick-a-tesla-into-accelerating-by-50-miles-per-hour/ | A two inch piece of tape fooled the Tesla’s cameras and made the car quickly and mistakenly speed up.
