@@ -3,7 +3,6 @@
 
 =====================================================
 
-
 ## Adversarial-Faces
 https://github.com/BruceMacD/Adversarial-Faces | "Testing the effectiveness of practical implementations of adversarial examples against facial recognition."
 
@@ -16,20 +15,23 @@ https://arstechnica.com/features/2020/04/some-shirts-hide-you-from-cameras-but-w
 ## Google Maps Hacks
 http://simonweckert.com/googlemapshacks.html | "99 second hand smartphones are transported in a handcart to generate virtual traffic jam in Google Maps."
 
+## Camera Shy Hoodie
+https://www.macpierce.com/the-camera-shy-hoodie | IR lights in hoddie to obscure night cameras.
+
 ## CV Dazzle
 https://cvdazzle.com/ | "Dazzle explores how fashion can be used as camouflage from face-detection technology, the first step in automated face recognition."
 
 ## Algotransparency.org
 https://algotransparency.org | "We aim to inform citizens on the mechanisms behind the algorithms that determine and shape our access to information. YouTube is the first platform on which we’ve conducted the experiment. We are currently developing tools for other platforms."
 
+## BoingBoing: Adversarial Preturbations
+https://boingboing.net/2019/03/08/hot-dog-or-not.html | "Towards a general theory of "adversarial examples," the bizarre, hallucinatory motes in machine learning's all-seeing eye"
+
 ## LabSix
 https://www.labsix.org/about/ | "LabSix is an independent, entirely student-run AI research group composed of MIT undergraduate and graduate students... Much of our current research is in the area of adversarial examples, at the intersection of machine learning and security."
 
 - https://www.labsix.org/physical-objects-that-fool-neural-nets/
 - https://www.labsix.org/limited-information-adversarial-examples/
-
-## BoingBoing: Adversarial Preturbations
-https://boingboing.net/2019/03/08/hot-dog-or-not.html | "Towards a general theory of "adversarial examples," the bizarre, hallucinatory motes in machine learning's all-seeing eye"
 
 ## Tech Crunch: Autonomous trap 001
 https://techcrunch.com/2017/03/17/laying-a-trap-for-self-driving-cars/ | Artist James Bridle produces a salt based trap for a self driving car.
